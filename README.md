@@ -1,12 +1,11 @@
-# MVP Análise de Dados e Boas Práticas
-#
-# Nome: JEFERSON FERREIRA FAGUNDES
-# Matricula: 4052026000082
-# Dataset: student_productivity_distraction_dataset_20000 - extraído da Kaggle
-#
-#
+ MVP Análise de Dados e Boas Práticas
+
+ Nome: JEFERSON FERREIRA FAGUNDES
+ Matricula: 4052026000082
+ Dataset: student_productivity_distraction_dataset_20000 - extraído da Kaggle
+
 # Descrição do Problema
-#
+
 # Identificar se o uso de redes sociais, games, youtube, nível de stress estão associados
 # ao desempenho na nota de exame e também verificar se outras variáveis
 # como horas de sono e minutos de exercício colaboram para uma maior produtividade, classificados
